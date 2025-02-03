@@ -15,7 +15,9 @@ version of the software. The implementation phase will follow based on these ana
 
 
 🚀 Planned Features :
-Continuous Monitoring: Tracks vital signs such as heart rate, blood sugar levels, blood pressure, and body temperature.
+
+
+Continuous Monitoring: Tracks vital signs such as heart rate,  blood sugar levels , blood pressure , and body temperature.
 
 Alerts & Notifications: Sends instant alerts in case of critical health conditions.
 
